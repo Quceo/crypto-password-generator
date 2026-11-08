@@ -14,17 +14,3 @@
 * **Язык:** Python 3.x
 * **Основной модуль:** `secrets` (Cryptographically secure pseudo-random number generator)
 
-## 📦 Как запустить проект
-
-1. Склонируйте репозиторий:
-   ```bash
-   git clone https://github.com
-   ```
-2. Перейдите в папку с проектом:
-   ```bash
-   cd crypto-password-generator
-   ```
-3. Запустите скрипт:
-   ```bash
-   python main.py
-   ```
