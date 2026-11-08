@@ -40,7 +40,3 @@
 - Python 3
 - Стандартная библиотека: `secrets` (классы `choice`, `SystemRandom`)
 
-## 🚀 Запуск
-
-```bash
-python password_generator.py
